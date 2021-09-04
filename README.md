@@ -18,6 +18,7 @@
 -> Notification    
 
 
+![푸시알림수신기](https://user-images.githubusercontent.com/68258365/132081521-265852b7-34a2-4669-8d38-689e2524c3a2.png)
 
 
 ### 00프로젝트 셋업
