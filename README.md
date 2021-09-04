@@ -5,6 +5,8 @@
 실무에서 서비스를 만들고 운영하기까지 활용도 높은 직군들 제공   
 
 [CloudMessaging]을 활용하여 push알림 수신기를 만듬   
+![diagram-FCM](https://user-images.githubusercontent.com/68258365/132081597-eb348c4e-0c32-4a93-a969-2b8b26ce3abd.png)
+
 
 ### [기능상세]
 -> Firebase 토큰을 확인할 수 있다.   
